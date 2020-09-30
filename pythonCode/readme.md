@@ -1,2 +1,3 @@
 Codes in sequences
-1. first_sim.py
+1.py
+2.py
