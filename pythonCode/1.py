@@ -1,6 +1,5 @@
 import pybullet as sim
 import time
-import math
 
 
 pc = sim.connect(sim.GUI)
